@@ -37,7 +37,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parsa5436&theme=dark" style="margin-right: 10px;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Parsa5436&theme=dark">
   </a>
-  <a style="display: flex;">
+  <a style="display: flex;width:"100%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parsa5436&layout=compact&theme=dark">
   </a>
 </div>
