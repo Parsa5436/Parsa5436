@@ -37,6 +37,9 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parsa5436&theme=dark" style="margin-right: 10px;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Parsa5436&theme=dark">
   </a>
+  <a style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parsa5436&layout=compact&theme=dark">
+  </a>
 </div>
 
 <!--horizontal divider(gradiant)-->
