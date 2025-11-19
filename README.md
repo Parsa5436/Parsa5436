@@ -84,8 +84,8 @@ One of the largest and most comprehensive SMS panel platforms (with over 5000 cu
     <img src="https://img.shields.io/endpoint?url=https://runkit.io/damiankrawczyk/telegram-badge/branches/master?url=https://t.me/Parsa5436&style=for-the-badge" alt="Telegram channel">
   </a>
   &nbsp;
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-Parsa5436@example.com-blue?style=for-the-badge" alt="Email">
+  <a href="p.amirabadi85@gmail.com">
+    <img src="https://img.shields.io/badge/Email-p.amirabadi85@gmail.com-blue?style=for-the-badge" alt="Email">
   </a>
 </div>
 
