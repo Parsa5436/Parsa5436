@@ -1,92 +1,56 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-  <br>
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Parsa5436&label=Profile%20Visits&style=for-the-badge" />
-  <br>
-  <a href="https://t.me/Parsa5436">
-    <img src="https://img.shields.io/endpoint?url=https://runkit.io/damiankrawczyk/telegram-badge/branches/master?url=https://t.me/Parsa5436&style=for-the-badge" alt="Telegram channel">
-  </a>
-</div>
+<!-- Profile README — lives in the repo github.com/Parsa5436/Parsa5436 -->
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Parsa Amirabadi — Senior Frontend Engineer. Design-system–driven web platforms, built to scale.">
+</p>
 
-# 👋 Hi, I'm Parsa
+Senior frontend engineer based in **Oman**. I turn sprawling product requirements into calm, design-system–driven interfaces — and I like the hard parts: **monorepo architecture**, **i18n / RTL at scale**, **streaming AI UX**, and shaving milliseconds off the render path.
 
-A passionate Frontend Developer focused on building modern, responsive, and scalable web apps. My expertise centers around JavaScript and the React ecosystem — building with Next.js, TypeScript, TailwindCSS, Zustand, React Query, and extensive experience using HeroUI for beautiful user interfaces. I enjoy crafting usable UI experiences with attention to detail and performance.
+<br>
 
----
+## ◆ What I build
 
-## 🚀 My Featured Projects
+<p align="center">
+  <img src="./assets/ecosystem.svg" width="100%" alt="The DiceX platform: eight product apps on a shared @dicex design system and platform libraries, in one Nx + Bun monorepo.">
+</p>
 
-### 🛍️ Parsa Store
-> [GitHub Repository](https://github.com/Parsa5436/parsa-store)
+Most of my day goes into **DiceX** — the product formerly known as the *PayamKotah* SMS panel, now a multi-app ecosystem: **~10 apps and one shared design system** in a single **Nx&nbsp;+&nbsp;Bun** monorepo. I own the frontend platform end to end — the shared `@dicex/ui` component library, auto-generated **Orval** API hooks over OData/REST, auth, i18n/RTL, and an in-house **AI writing assistant** wired into every message composer across the suite.
 
-Modern e-commerce platform built with Next.js 15, TypeScript, TailwindCSS & Zustand, featuring:
-- Parallax hero section
-- Dark mode
-- Real-time cart management
-- React Query integration
-- Fully responsive design
+<br>
 
-### 📲 PayamKotah SMS Panel
-> [PayamKotah Website](https://payamkotah.com)
+## ◆ Stack
 
-One of the largest and most comprehensive SMS panel platforms (with over 5000 customers). The front-end dashboard is fully custom-built with React and features highly interactive UX, scalability, and advanced messaging capabilities — all with a professional UI designed using HeroUI.
+<p align="center">
+  <img src="./assets/stack.svg" width="100%" alt="Engineering stack grouped by category: core, UI and design systems, state and forms, tooling, data, and AI and automation.">
+</p>
 
----
+<br>
 
-## 🛠️ Skills & Tech Stack
+## ◆ Selected work
 
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="40" height="40"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MUI" alt="MUI" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/zustand/zustand-plain.svg" title="Zustand" alt="Zustand" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/heroui-inc/heroui/main/apps/docs/public/isotipo.png" title="HeroUI" alt="HeroUI" width="40" height="40"/> &nbsp;
-  <br />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python (learning)" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django (learning)" alt="Django" width="40" height="40"/>&nbsp;
-</div>
+- **DiceX platform** — Multi-app frontend ecosystem — React Router v7 · HeroUI · TanStack Query · RHF + Zod · Nx. A shared design system, KYC onboarding, reseller portal, dashboards and statistical reports with date-range analytics.
+- **DiceX AI Studio** — In-product AI writing platform on **Vercel AI SDK v7** + OpenRouter: token streaming, structured (Zod) output, Persian-aware SMS tooling, and server-side usage metering.
+- **Pixel** — Client-side image optimizer & icon studio — **WASM** codecs (jSquash), Comlink workers, SVGO, and raster→SVG vectorization exported as **Iconify** packs.
+- **Seamless — landing** — Motion-heavy marketing site — Next.js · **GSAP** · Lenis · **react-three-fiber** WebGL hero · RTL · surgical, choreographed motion.
+- **Telegram bots** — Reseller and media-download bots built with **grammY** + Telegram Bot API, orchestrated with **n8n** automation flows.
 
----
+<br>
 
-### 💡 What I Use Most
+## ◆ By the numbers
 
-- **Languages:** JavaScript, TypeScript
-- **Frameworks/Libraries:** React, Next.js, TailwindCSS, Zustand, React Query, HeroUI
-- **UI Library (Specialized):** HeroUI
-- **Other Skills:** Responsive design, Parallax & Animation, UI prototyping, REST API integration
-- **Currently Learning:** Python, Django
+<p align="center">
+  <img height="165" alt="Parsa's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Parsa5436&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=818cf8&icon_color=2dd4bf&text_color=8b949e&ring_color=2dd4bf" />
+  <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parsa5436&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=818cf8&text_color=8b949e" />
+</p>
 
----
+<br>
 
-## 📊 Stats
+## ◆ Reach me
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parsa5436&theme=dark" alt="GitHub Profile Summary" style="margin-bottom: 10px;" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parsa5436&layout=compact&theme=dark" style="margin:0 10px;"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Parsa5436&theme=dark" style="margin:0 10px;"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parsa5436&theme=dark" style="margin:0 10px;"/>
-</div>
+<p align="center">
+  <a href="https://www.ntft.tech/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ntft.tech-2dd4bf?style=for-the-badge&labelColor=0d1117"></a>
+  <a href="https://t.me/Parsa5436"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@Parsa5436-818cf8?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117"></a>
+  <a href="https://github.com/Parsa5436"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Parsa5436-e6edf3?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"></a>
+</p>
 
----
-
-## 📲 Contact Me
-
-<div align="center">
-  <a href="https://t.me/Parsa5436">
-    <img src="https://img.shields.io/endpoint?url=https://runkit.io/damiankrawczyk/telegram-badge/branches/master?url=https://t.me/Parsa5436&style=for-the-badge" alt="Telegram channel">
-  </a>
-  &nbsp;
-  <a href="p.amirabadi85@gmail.com">
-    <img src="https://img.shields.io/badge/Email-p.amirabadi85@gmail.com-blue?style=for-the-badge" alt="Email">
-  </a>
-</div>
-
-<!-- Add other contact/social links as needed -->
+<p align="center"><sub><code>◆</code> Building with React, one design system at a time.</sub></p>
